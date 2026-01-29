@@ -1,0 +1,20 @@
+# Java
+target/
+out/
+*.jar
+*.war
+*.ear
+
+# Frontend
+node_modules/
+dist/
+build/
+lib/runtime/
+
+# IDE
+.idea/
+*.iml
+
+# Env & logs
+.env
+*.log
